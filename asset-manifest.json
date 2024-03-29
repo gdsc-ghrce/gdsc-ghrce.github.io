@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.eead34a0.css",
-    "main.js": "/static/js/main.987dff3d.js",
+    "main.css": "/static/css/main.300d6ae4.css",
+    "main.js": "/static/js/main.05fd42d4.js",
     "static/js/787.aefaf65b.chunk.js": "/static/js/787.aefaf65b.chunk.js",
     "static/media/HarshChaudhari.png": "/static/media/HarshChaudhari.56448186d38f47aefc8a.png",
     "static/media/PCUI.svg": "/static/media/PCUI.546617719b7b3bb35a6e8651d327ba36.svg",
@@ -19,6 +19,7 @@
     "static/media/eventBanner.jpg": "/static/media/eventBanner.a946e38d24909e6b1eb0.jpg",
     "static/media/certificate-image-1.jpeg": "/static/media/certificate-image-1.bebc45874b6ddfa27bbf.jpeg",
     "static/media/SumedhaTambulkar.png": "/static/media/SumedhaTambulkar.6cd379b18cac3568ad7e.png",
+    "static/media/TechotsavBanner.png": "/static/media/TechotsavBanner.00267618677e65c87329.png",
     "static/media/SwarnimChandve.png": "/static/media/SwarnimChandve.efe038a0293e9891c87a.png",
     "static/media/AmanKhapre.png": "/static/media/AmanKhapre.fa7a0e3548c07e17a593.png",
     "static/media/KartikGile.png": "/static/media/KartikGile.6d518f753d5cb6287cea.png",
@@ -75,12 +76,12 @@
     "static/media/PayalPande.webp": "/static/media/PayalPande.d246c1ce16218183f5d2.webp",
     "static/media/pranay-saraf.webp": "/static/media/pranay-saraf.c231ccc306a32af4f81f.webp",
     "index.html": "/index.html",
-    "main.eead34a0.css.map": "/static/css/main.eead34a0.css.map",
-    "main.987dff3d.js.map": "/static/js/main.987dff3d.js.map",
+    "main.300d6ae4.css.map": "/static/css/main.300d6ae4.css.map",
+    "main.05fd42d4.js.map": "/static/js/main.05fd42d4.js.map",
     "787.aefaf65b.chunk.js.map": "/static/js/787.aefaf65b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eead34a0.css",
-    "static/js/main.987dff3d.js"
+    "static/css/main.300d6ae4.css",
+    "static/js/main.05fd42d4.js"
   ]
 }
